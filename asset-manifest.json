@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.db62923b.css",
-    "main.js": "/build/static/js/main.d082afb1.js",
-    "static/js/453.4c68adbe.chunk.js": "/build/static/js/453.4c68adbe.chunk.js",
-    "static/media/logo.svg": "/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/build/index.html",
-    "main.db62923b.css.map": "/build/static/css/main.db62923b.css.map",
-    "main.d082afb1.js.map": "/build/static/js/main.d082afb1.js.map",
-    "453.4c68adbe.chunk.js.map": "/build/static/js/453.4c68adbe.chunk.js.map"
+    "main.css": "/resolve_hub/static/css/main.3f1463cc.css",
+    "main.js": "/resolve_hub/static/js/main.25819266.js",
+    "static/js/453.b13e9974.chunk.js": "/resolve_hub/static/js/453.b13e9974.chunk.js",
+    "index.html": "/resolve_hub/index.html",
+    "main.3f1463cc.css.map": "/resolve_hub/static/css/main.3f1463cc.css.map",
+    "main.25819266.js.map": "/resolve_hub/static/js/main.25819266.js.map",
+    "453.b13e9974.chunk.js.map": "/resolve_hub/static/js/453.b13e9974.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db62923b.css",
-    "static/js/main.d082afb1.js"
+    "static/css/main.3f1463cc.css",
+    "static/js/main.25819266.js"
   ]
 }
